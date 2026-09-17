@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>MusiTico — MT</title>
+  <rect width="64" height="64" rx="12" fill="#171b24"/>
+  <g fill="#c8a24a">
+    <path d="M8 45V19h6l7 12 7-12h6v26h-6V30l-7 11-7-11v15z"/>
+    <path d="M36 19h23v6h-8.5v20h-6V25H36z"/>
+  </g>
+</svg>
